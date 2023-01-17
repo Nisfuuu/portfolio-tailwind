@@ -8,3 +8,8 @@ tanpa doctype html kita bisa mengatur lebar screen atau 1/2 screen
 top-0 bottom-0 biar ketarik antara atas dan bawah sehingga berada di tenggah wajib menggunakan margin-auto
 
 ketika flex-column-reverse akan menyusun ke bawah kebalikannya dengan flex-row menyusun ke samping
+
+gitignor node Module
+
+.gitignore node_module/ kalau hanya file *.exemple.file
+terminal = git rm -r --cached .
